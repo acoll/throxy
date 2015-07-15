@@ -1,0 +1,13 @@
+{
+  "name": "throxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "throxy": "index.js"
+  },
+  "dependencies": {
+    "bytes": "visionmedia/bytes.js",
+    "commander": "tj/commander.js"
+  }
+}
