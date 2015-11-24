@@ -1,3 +1,5 @@
+So turns out you can do this with Chrome, so this package is sort of useless.
+
 # throxy
 
 A very simple throttling proxy for simulating slow internet.
